@@ -1,0 +1,60 @@
+// typesetting.min.css
+
+
+body {
+    font-size: 0.75rem;
+    font-family: "楷体","Arial","Microsoft YaHei","黑体",sans-serif;
+}
+
+.word-wrap {
+  word-wrap: break-word;
+}
+
+.container .bgc {
+  background: -webkit-linear-gradient(50deg, #ffffff 30%, #33cc99);
+  background: linear-gradient(40deg, #ffffff 30%, #33cc99);
+}
+
+.sidebar {
+  background-color: #99cc99;
+  min-height: 700px;
+  font-weight: bold;
+}
+
+.sidebar .body {
+  height: 50%;
+  margin: auto;
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0; 
+  text-align: center;
+  padding-top: 40px;
+}
+
+.sidebar .body li {
+  margin-top: 10px;
+}
+
+.sidebar .body a {
+  text-decoration: none;
+}
+
+
+.content {
+  margin-top: 40px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.content li {
+  margin-bottom: 20px;
+}
+
+.content textarea {
+  max-width: 600px;
+  min-width: 400px;
+  max-height: 450px;
+  min-height: 350px;
+}

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>hd专用图片图注排版工具 V_0.6.0</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <!-- typesetting CSS -->
+    <link rel="stylesheet" href="./css/typesetting.css">
+  </head>
+  <body>
+    
+    <div class="container">
+      <div class="bgc">
+        <div class="row">
+          <div class="col-sm-3">
+            <div class="sidebar">
+            <div class="body">
+              <ul class="list-unstyled">
+                <li><img src="./img/typesetting-logo.png"></li>
+                <li>图片图注排版工具</li>
+                <li>&nbsp;</li>
+                <li><a href="#" onclick="showTab('index')">主页</a></li>
+                <li>&nbsp;</li>
+                <li><a href="#" onclick="showTab('use')">使用说明</a></li>
+                <li>&nbsp;</li>
+                <li><a href="#" onclick="showTab('update')">更新说明</a></li>
+                <li>&nbsp;</li>
+                <li><a href="#" onclick="showTab('about')">关于工具</a></li>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+                <li>©2016 Team.</li>
+              </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-9">
+            <div id="index" role="tab" class="content">
+              <ul class="list-unstyled">
+                <li>
+                  <div class="row">
+                    <label class="col-sm-12">主页</label>
+                  </div>
+                </li>
+                <li>
+                  <div class="form-group row">
+                    <label class="col-sm-2 form-control-label">相对URL</label>
+                    <div class="col-sm-10">
+                      <p id="site-path" class="form-control-static" contenteditable="true">/sites/default/files/2016/01/368</p>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="form-group row">
+                    <label class="col-sm-2 form-control-label">选择图片</label>
+                    <div class="col-sm-10">
+                      <label class="file">
+                        <input type="file" id="file" multiple="true" onchange="checkImage(this.files)">
+                        <span class="file-custom"></span>
+                      </label>
+                    </div>
+                  </div>
+                  <li>
+                    <div class="form-group row">
+                      <label class="col-sm-2 form-control-label">显示文本</label>
+                      <div class="col-sm-10">
+                        <textarea class="form-control" id="contentTextarea" rows="3"></textarea>
+                      </div>
+                    </div>
+                  </li>
+                </li>
+              </ul>
+            </div>
+
+            <div id="use" role="tab" class="content">
+              <ul class="list-unstyled">
+                <li>
+                  <div class="row">
+                    <label class="col-sm-12">使用说明</label>
+                  </div>
+                </li>
+                <li>
+                  <div class="card">
+                    <div class="card-header">
+                      说明
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                        1. 填写网站图片"相对URL"，请依据自己上传图片时的目录修改。<br>
+                        2. 修改图片名称格式如：1_敬拜神.jpg , 2_主日学.png。开头数字会按照升序排序，“_”后是图注。<br>
+                        3. 选择图片，选择时<code>ctrl+a</code>可以全选，<code>ctrl+鼠标左键</code>可以多选。<br>
+                        4. 复制"显示文本"内生成的源码，粘贴到网站源码状态的编辑框。<br>
+                      </p>
+                    </div>
+                  </div>
+                    
+                  <div class="card">
+                    <div class="card-header">
+                      注意事项
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                        1. 工具不上传图片，仅获取一下图片的名称信息。<br>
+                        2. 旧版(V_0.5.3)访问地址：
+                        <a href="http://www.holdlg.com/examples/javascript/typesetting_v5.html" target="_blank">点击这里</a>。<br>
+                      </p>
+                    </div>
+                  </div>
+
+                </li>
+              </ul>
+            </div>
+
+            <div id="update" role="tab" class="content">
+              <ul class="list-unstyled">
+                <li>
+                  <div class="row">
+                    <label class="col-sm-12">更新说明</label>
+                  </div>
+                </li>
+                <li>
+                  <div class="card">
+                    <div class="card-header">
+                      功能说明
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                        1. 自动过滤非png和jpg格式的文件。<br>
+                        2. 自动排序。<br>
+                        3. 自动处理相对路径的时间格式。<br>
+                        4. 图片宽度为<code>650px</code>。<br>
+                      </p>
+                    </div>
+                  </div>
+
+                  <div class="card">
+                    <div class="card-header">
+                      2016年更新
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                        <code>01.25</code>更新工具版面设计风格，更具体化。
+                        详情参考：
+                        <a href="http://www.holdlg.com/examples/javascript/typesetting.html">工具主页</a>。<br>
+                        <code>01.18</code>更新相对URL中月份的显示格式，如："1"显示为"01"。<br>
+                      </p>
+                    </div>
+                  </div>
+
+                  <div class="card">
+                    <div class="card-header">
+                      2015年更新
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                        <code>10.21</code>自动化相对URL中的日期格式。<br>
+                        <code>09.21</code>图片图注排版工具web版V_0.5.0更新上线。<br>
+                      </p>
+                    </div>
+                  </div>
+
+                </li>
+              </ul>
+            </div>
+
+
+            <div id="about" role="tab" class="content">
+              <ul class="list-unstyled">
+                <li>
+                  <div class="row">
+                    <label class="col-sm-12">关于工具</label>
+                  </div>
+                </li>
+                <li>
+                  <div class="card">
+                    <div class="card-header">
+                      图片图注排版工具 V_0.6.0
+                    </div>
+                    <div class="card-block">
+                      <p class="card-text">
+                            此工具是<a href="http://www.hdchurch.org/" target="_blank">海淀堂网站</a>文章上传图片图注排版专用工具。<br>
+                            由于桌面版(<code>V_0.5.0之前版本</code>)的图片图注排版工具更新迭代慢，兼容性差，操作繁琐。<br>
+                            故从<code>V_0.5.0</code>版开始使用web开发此工具，方便大家使用，提高排版效率。<br><br>
+                            <code>感谢主，愿主耶稣纪念所有敬拜和服侍他的人，也欢迎你加入主耶稣基督，加入海淀堂，阿门!</code><br>
+                      </p>
+                    </div>
+                  </div>
+
+                </li>
+              </ul>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery first, then Bootstrap JS. -->
+    <script src="./js/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.1.1/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    <!-- typesetting js -->
+    <script src="./js/typesetting.min.js"></script>
+    <script type="text/javascript">
+      showTab("index");
+    </script>
+  </body>
+</html>

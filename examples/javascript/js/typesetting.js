@@ -12,7 +12,7 @@ if (myday < 10 && myday > 0) {
   myday = '0'+ myday;
 }
 
-document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/368/'+myday;
+document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/'+myday+'/368';
 
 
 String.prototype.format=function()

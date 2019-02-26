@@ -4,11 +4,15 @@
 var mydate = new Date();
 var myyear = mydate.getFullYear();
 var mymonth = mydate.getMonth() + 1;
+var myday = mydate.getDate();
 if (mymonth < 10 && mymonth > 0) {
   mymonth = '0'+ mymonth;
 }
+if (myday < 10 && myday > 0) {
+  myday = '0'+ myday;
+}
 
-document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/368';
+document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/368/'+myday;
 
 
 String.prototype.format=function()

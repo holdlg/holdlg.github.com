@@ -12,7 +12,21 @@ if (myday < 10 && myday > 0) {
   myday = '0'+ myday;
 }
 
-document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/'+myday+'/368';
+buildURL();
+
+function buildURL(){
+  var userid = '368';
+  if ($.cookie('user-id')) {
+    userid = $.cookie('user-id');
+  }
+  document.getElementById('site-path').innerHTML='/sites/default/files/'+myyear+'/'+mymonth+'/'+myday+'/'+userid;
+}
+
+/* Save User ID to Cookie */
+$('#user-id-submit').click(function(){
+  $.cookie('user-id', $('#user-id').val());
+  buildURL();
+})
 
 
 String.prototype.format=function()

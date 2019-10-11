@@ -1,0 +1,219 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>[生活心得] 问题 | holdlg</title>
+<meta name="description" content="有事做有所期待，日子就是幸福的。">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="http://www.holdlg.com/favicon.ico?v=1570766863377">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="http://www.holdlg.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="http://www.holdlg.com">
+        <img class="avatar" src="http://www.holdlg.com/images/avatar.png?v=1570766863377" alt="" width="32px" height="32px">
+      </a>
+      <a href="http://www.holdlg.com">
+        <h1 class="site-title">holdlg</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="/examples/javascript/typesetting.html" class="menu" target="_blank">
+            图片排版
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">[生活心得] 问题</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-10-11</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="http://www.holdlg.com/tag/sheng-huo-xin-de">
+                    生活心得
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <ol>
+<li>简单问题，有明确目标或明确答案的问题，解决了就有胜利的感觉，对自己表示肯定。如考上清华北大，解出一道考试题。</li>
+<li>复杂问题，没有明确的目标和明确答案，往往是得此失彼，不断取舍。取得的时候，往往不会有胜利的感觉，没有多大的成就感。比如买房，市区公司近的房子贵而且小，但是上班方便。郊区的房子便宜而且大，以后也可以带孩子，就是上班远。不管你选哪个，心中都有欠缺，但是你又不能同时选择2个或更多。</li>
+<li>棘手的问题，没有明确的目标和明确答案，没有有效解决的途径，没有有效的参考，没有测试环境，每次方案实施都是现实环境，实施方案的结果不一定是你预测期望的，短期看不到效果，最后你还得为这种有或没有的结果承担必要的责任。如全球变暖，贫富差距等。</li>
+</ol>
+<p>人为什么越活越难？因为遇到的问题在变。</p>
+<p>上学的时候遇到的问题大部分都是简单问题，有目标又答案，只要你努力达成目标，就是胜利，就是赢。</p>
+<p>进入社会遇到的复杂问题居多，没有明确的目标和答案，这样也行，那样也可以，但是都完美。选择这个就会失去哪个。没有赢的感觉。</p>
+<p>棘手的问题肯能都会遇到吧，毕竟个人的能力是有限的，谁都会有硬着头皮上的时候吧。 但是像全球变暖，贫富差距的问题，至今确实没有什么有效可行的方案吧，都在试，都在测，但是贫富依然越来越大，地球依然在变暖。</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="http://www.holdlg.com/post/yuan-jing">
+              <h3 class="post-title">
+                下一篇：[生活心得] 愿景
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">有事做有所期待，日子就是幸福的。</div>
+  <div class="social-container">
+    
+      
+        <a href="http://github.com/holdlg" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      
+    
+      
+        <a href="https://twitter.com/holdlg" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+      
+    
+      
+        <a href="https://weibo.com/holdlg" target="_blank">
+          <i class="fab fa-weibo"></i>
+        </a>
+      
+    
+      
+        <a href="https://www.zhihu.com/people/holdlg" target="_blank">
+          <i class="fab fa-zhihu"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+  &copy; 2019  <a href="http://www.holdlg.com">www.holdlg.com</a> | <a class="rss" href="http://www.holdlg.com/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'be6ce85f1bdd3811e5a0',
+        clientSecret: 'c0262fadd5f467832a69f5d32848c4a8e55aee76',
+        repo: 'holdlg.github.com',
+        owner: 'holdlg',
+        admin: ['holdlg'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

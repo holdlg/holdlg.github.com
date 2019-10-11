@@ -1,0 +1,218 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>[生活心得] 生和活 | holdlg</title>
+<meta name="description" content="有事做有所期待，日子就是幸福的。">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="http://www.holdlg.com/favicon.ico?v=1570766863377">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="http://www.holdlg.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="http://www.holdlg.com">
+        <img class="avatar" src="http://www.holdlg.com/images/avatar.png?v=1570766863377" alt="" width="32px" height="32px">
+      </a>
+      <a href="http://www.holdlg.com">
+        <h1 class="site-title">holdlg</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="/examples/javascript/typesetting.html" class="menu" target="_blank">
+            图片排版
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">[生活心得] 生和活</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-10-11</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="http://www.holdlg.com/tag/sheng-huo-xin-de">
+                    生活心得
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>把生活拆成生和活，生有出生，生命，生长。活有灵活，活着，活动。</p>
+<p>对与人来说生只需要吃饭，喝水，💩，🚽，呼吸空气，睡觉就基本满足了。生有多重要也许只有那些将要失去生的能力的人最清楚吧。</p>
+<p>生是千篇一律的，大部分人每天都是1至3餐，睡一张床。💩都不是香的。</p>
+<p>相对于生，活就大不相同了。糟糠豆粕与山珍海味，城市核心与边缘小镇，诗和远方与蜗居6平。</p>
+<p>生已经竭尽全力了，活不过是别人的远方。不管是生活，还是生和活。同样不易。</p>
+<p>如果明天比今天活的好，你应该感恩这个世界，感谢上帝。如果明天比今天活的糟糕，那是对的，因为生活向来如此。</p>
+<p>记得电影《这个杀手不太冷》有一段对白大概是这么说的，12岁的少女玛蒂尔达问40岁大叔莱昂：“生活是只有童年如此(痛苦)，还是向来如此(痛苦)。” 莱昂回答说：“向来如此”。电影最后莱昂死了，玛蒂尔达把绿植埋在土里，选择了活下去。</p>
+<p>也许这就是所谓的，看清了生活的真相，依然选择活下去的人，才是真正的勇者吧。</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="http://www.holdlg.com/post/wen-ti">
+              <h3 class="post-title">
+                下一篇：[生活心得] 问题
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">有事做有所期待，日子就是幸福的。</div>
+  <div class="social-container">
+    
+      
+        <a href="http://github.com/holdlg" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      
+    
+      
+        <a href="https://twitter.com/holdlg" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+      
+    
+      
+        <a href="https://weibo.com/holdlg" target="_blank">
+          <i class="fab fa-weibo"></i>
+        </a>
+      
+    
+      
+        <a href="https://www.zhihu.com/people/holdlg" target="_blank">
+          <i class="fab fa-zhihu"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+  &copy; 2019  <a href="http://www.holdlg.com">www.holdlg.com</a> | <a class="rss" href="http://www.holdlg.com/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'be6ce85f1bdd3811e5a0',
+        clientSecret: 'c0262fadd5f467832a69f5d32848c4a8e55aee76',
+        repo: 'holdlg.github.com',
+        owner: 'holdlg',
+        admin: ['holdlg'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

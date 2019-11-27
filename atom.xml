@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-11-27T10:19:07.772Z</updated>
+    <updated>2019-11-27T10:24:01.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>http://www.holdlg.com/images/avatar.png</logo>
     <icon>http://www.holdlg.com/favicon.ico</icon>
     <rights>All rights reserved 2019, holdlg</rights>
+    <entry>
+        <title type="html"><![CDATA[[工具] 图片排版]]></title>
+        <id>http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban</id>
+        <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
+        </link>
+        <updated>2027-12-24T12:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[有些事] 愿景]]></title>
         <id>http://www.holdlg.com/post/yuan-jing</id>
@@ -338,18 +347,6 @@
 <p>你觉得满足的时候，可能还会有以下的感觉：<br />心怀感激　平静<br />幸运　　　有思想<br />轻松　　　安慰</p>
 <p>你受到了伤害的时候，可能还会有以下的感觉：<br />被欺骗　　　被击败<br />受到了约束　被抛弃<br />被忽略　　　被遗忘<br />被冒犯　　　被孤立<br />孤独　　　　被否认<br />被迫害　　　被轻视<br />被冷落　　　心烦意乱</p>
 <p>你觉得自己不够优秀的时候，可能还会有以下的感觉：<br />被削弱了　　无助<br />没有能力　　自卑<br />悲观　　　　无力<br />无价值</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[读书笔记] 你好！植物]]></title>
-        <id>http://www.holdlg.com/post/du-shu-bi-ji-ni-hao-zhi-wu</id>
-        <link href="http://www.holdlg.com/post/du-shu-bi-ji-ni-hao-zhi-wu">
-        </link>
-        <updated>2019-11-27T09:53:04.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="摘录">摘录</h1>
-<p>读书的人很懒，他标记在书本里了。</p>
-<h1 id="感言">感言</h1>
-<p>植物有植物的世界，动物有动物的世界，人有人的世界，都是大自然选择的结果，上帝创造的。<br />我们没有比动物高等，也不必植物高等。因为我们都是受造物。 不要把自己想都多高大，爱护动物，爱护植物，因为我们是相互的，谁也离不了谁。</p>
 ]]></content>
     </entry>
 </feed>

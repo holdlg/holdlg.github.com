@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-11-27T11:35:54.586Z</updated>
+    <updated>2019-11-27T11:37:08.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -132,7 +132,11 @@
         <link href="http://www.holdlg.com/post/du-shu-bi-ji-lesslesscong-ji-jian-dao-ji-zhi-greatergreater">
         </link>
         <updated>2019-11-27T11:35:46.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
+        <summary type="html"><![CDATA[<p>哪有什么高端低端，每个人都是生活里的英雄</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>哪有什么高端低端，每个人都是生活里的英雄</p>
+<!-- more -->
+<blockquote>
 <p>“人生最悲哀的事情莫过于，在活着的时候感觉随时都会死，死的时候才发现自己好像从来都没有活过。”</p>
 </blockquote>
 <blockquote>

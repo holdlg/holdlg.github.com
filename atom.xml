@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-11-27T10:24:01.548Z</updated>
+    <updated>2019-11-27T10:32:45.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
         </link>
         <updated>2027-12-24T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+        <summary type="html"><![CDATA[<p>工具集分享</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>工具集分享</p>
+<!-- more -->
+<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -25,7 +29,11 @@
         <link href="http://www.holdlg.com/post/yuan-jing">
         </link>
         <updated>2025-10-30T04:01:15.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="2019">2019</h1>
+        <summary type="html"><![CDATA[<p>有事做有所期待，日子就是幸福的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>有事做有所期待，日子就是幸福的。</p>
+<!-- more -->
+<h1 id="2019">2019</h1>
 <p>有事做有所期待，日子就是幸福的。</p>
 <h1 id="2018">2018</h1>
 <p>简单生活</p>

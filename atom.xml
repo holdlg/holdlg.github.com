@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-11-27T11:37:08.814Z</updated>
+    <updated>2019-12-04T10:38:24.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>http://www.holdlg.com/favicon.ico</icon>
     <rights>All rights reserved 2019, holdlg</rights>
     <entry>
-        <title type="html"><![CDATA[[工具] 图片排版]]></title>
+        <title type="html"><![CDATA[[工具] 图片排版和其他]]></title>
         <id>http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban</id>
         <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
         </link>
@@ -21,6 +21,7 @@
         <content type="html"><![CDATA[<p>工具集分享</p>
 <!-- more -->
 <p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+<p>我的Linux笔记：<a href="https://www.yuque.com/feellife/linux">https://www.yuque.com/feellife/linux</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -124,6 +125,23 @@
 <p>孔子说：“己所不欲，勿施于人”。<br>
 上帝说：“爱人如己”。</p>
 </blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[学习] 单词]]></title>
+        <id>http://www.holdlg.com/post/xue-xi-dan-ci</id>
+        <link href="http://www.holdlg.com/post/xue-xi-dan-ci">
+        </link>
+        <updated>2019-11-29T03:42:55.000Z</updated>
+        <content type="html"><![CDATA[<p>P2P<br>
+peer-to-peer<br>
+client<br>
+server<br>
+virtual<br>
+stream<br>
+skype<br>
+rust<br>
+spark</p>
 ]]></content>
     </entry>
     <entry>
@@ -441,23 +459,6 @@
 越低端、越缺德行的人，越是喜欢诋毁嫉妒，拆台，鄙视，因为我不好，我也不想让你好。<br>
 所以，和一群有同样格局和思维的人一起前行才是最重要的。</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[摘录] 生活 和 生和活]]></title>
-        <id>http://www.holdlg.com/post/you-xie-shi-sheng-huo-he-sheng-he-huo</id>
-        <link href="http://www.holdlg.com/post/you-xie-shi-sheng-huo-he-sheng-he-huo">
-        </link>
-        <updated>2019-11-27T09:56:31.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="生活-生和活">生活 &amp; 生和活</h1>
-<p>把生活拆成生和活，生有出生，生命，生长。活有灵活，活着，活动。</p>
-<p>对与人来说生只需要吃饭，喝水，💩，🚽，呼吸空气，睡觉就基本满足了。生有多重要也许只有那些将要失去生的能力的人最清楚吧。</p>
-<p>生是千篇一律的，大部分人每天都是1至3餐，睡一张床。💩都不是香的。</p>
-<p>相对于生，活就大不相同了。糟糠豆粕与山珍海味，城市核心与边缘小镇，诗和远方与蜗居6平。</p>
-<p>生已经竭尽全力了，活不过是别人的远方。不管是生活，还是生和活。同样不易。</p>
-<p>如果明天比今天活的好，你应该感恩这个世界，感谢上帝。如果明天比今天活的糟糕，那是对的，因为生活向来如此。</p>
-<p>记得电影《这个杀手不太冷》有一段对白大概是这么说的，12岁的少女玛蒂尔达问40岁大叔莱昂：“生活是只有童年如此(痛苦)，还是向来如此(痛苦)。” 莱昂回答说：“向来如此”。电影最后莱昂死了，玛蒂尔达把绿植埋在土里，选择了活下去。</p>
-<p>也许这就是所谓的，看清了生活的真相，依然选择活下去的人，才是真正的勇者吧。</p>
 ]]></content>
     </entry>
 </feed>

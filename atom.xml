@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-12-09T10:27:34.052Z</updated>
+    <updated>2019-12-12T09:29:08.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -49,11 +49,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[摘录] 问题]]></title>
+        <id>http://www.holdlg.com/post/wen-ti</id>
+        <link href="http://www.holdlg.com/post/wen-ti">
+        </link>
+        <updated>2019-12-25T04:02:52.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>简单问题，有明确目标或明确答案的问题，解决了就有胜利的感觉，对自己表示肯定。如考上清华北大，解出一道考试题。</li>
+<li>复杂问题，没有明确的目标和明确答案，往往是得此失彼，不断取舍。取得的时候，往往不会有胜利的感觉，没有多大的成就感。比如买房，市区公司近的房子贵而且小，但是上班方便。郊区的房子便宜而且大，以后也可以带孩子，就是上班远。不管你选哪个，心中都有欠缺，但是你又不能同时选择2个或更多。</li>
+<li>棘手的问题，没有明确的目标和明确答案，没有有效解决的途径，没有有效的参考，没有测试环境，每次方案实施都是现实环境，实施方案的结果不一定是你预测期望的，短期看不到效果，最后你还得为这种有或没有的结果承担必要的责任。如全球变暖，贫富差距等。</li>
+</ol>
+<p>人为什么越活越难？因为遇到的问题在变。</p>
+<p>上学的时候遇到的问题大部分都是简单问题，有目标又答案，只要你努力达成目标，就是胜利，就是赢。</p>
+<p>进入社会遇到的复杂问题居多，没有明确的目标和答案，这样也行，那样也可以，但是都完美。选择这个就会失去哪个。没有赢的感觉。</p>
+<p>棘手的问题肯能都会遇到吧，毕竟个人的能力是有限的，谁都会有硬着头皮上的时候吧。 但是像全球变暖，贫富差距的问题，至今确实没有什么有效可行的方案吧，都在试，都在测，但是贫富依然越来越大，地球依然在变暖。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[摘录] 这是话]]></title>
         <id>http://www.holdlg.com/post/zhai-lu-zhe-shi-hua</id>
         <link href="http://www.holdlg.com/post/zhai-lu-zhe-shi-hua">
         </link>
-        <updated>2020-12-01T10:03:22.000Z</updated>
+        <updated>2019-12-12T09:13:56.000Z</updated>
         <content type="html"><![CDATA[<h1 id="记录">记录</h1>
 <blockquote>
 <p>在坚持的道路上遇到了困难和诱惑。 --这是话 2019.12.05 上午</p>
@@ -111,20 +128,15 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[摘录] 问题]]></title>
-        <id>http://www.holdlg.com/post/wen-ti</id>
-        <link href="http://www.holdlg.com/post/wen-ti">
+        <title type="html"><![CDATA[[橘子] 爸爸与孩子的关系]]></title>
+        <id>http://www.holdlg.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi</id>
+        <link href="http://www.holdlg.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi">
         </link>
-        <updated>2019-12-25T04:02:52.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>简单问题，有明确目标或明确答案的问题，解决了就有胜利的感觉，对自己表示肯定。如考上清华北大，解出一道考试题。</li>
-<li>复杂问题，没有明确的目标和明确答案，往往是得此失彼，不断取舍。取得的时候，往往不会有胜利的感觉，没有多大的成就感。比如买房，市区公司近的房子贵而且小，但是上班方便。郊区的房子便宜而且大，以后也可以带孩子，就是上班远。不管你选哪个，心中都有欠缺，但是你又不能同时选择2个或更多。</li>
-<li>棘手的问题，没有明确的目标和明确答案，没有有效解决的途径，没有有效的参考，没有测试环境，每次方案实施都是现实环境，实施方案的结果不一定是你预测期望的，短期看不到效果，最后你还得为这种有或没有的结果承担必要的责任。如全球变暖，贫富差距等。</li>
-</ol>
-<p>人为什么越活越难？因为遇到的问题在变。</p>
-<p>上学的时候遇到的问题大部分都是简单问题，有目标又答案，只要你努力达成目标，就是胜利，就是赢。</p>
-<p>进入社会遇到的复杂问题居多，没有明确的目标和答案，这样也行，那样也可以，但是都完美。选择这个就会失去哪个。没有赢的感觉。</p>
-<p>棘手的问题肯能都会遇到吧，毕竟个人的能力是有限的，谁都会有硬着头皮上的时候吧。 但是像全球变暖，贫富差距的问题，至今确实没有什么有效可行的方案吧，都在试，都在测，但是贫富依然越来越大，地球依然在变暖。</p>
+        <updated>2019-12-12T08:59:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>小时候孩子以爸爸为荣，长大了爸爸以孩子为荣。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>小时候孩子以爸爸为荣，长大了爸爸以孩子为荣。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -242,18 +254,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>18岁的你漂亮 不是你漂亮 是18漂亮</p>
 <p>28岁的你漂亮 不是28岁漂亮 是你漂亮</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[橘子] 我告诉你我喜欢你]]></title>
-        <id>http://www.holdlg.com/post/ju-zi</id>
-        <link href="http://www.holdlg.com/post/ju-zi">
-        </link>
-        <updated>2019-12-09T10:10:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>我告诉你我喜欢你，并不是一定要和你在一起，只是希望今后的你，在遭遇人生低谷的时候，不要灰心，至少曾经有人被你的魅力所吸引，曾经是，以后也会是。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>我告诉你我喜欢你，并不是一定要和你在一起，只是希望今后的你，在遭遇人生低谷的时候，不要灰心，至少曾经有人被你的魅力所吸引，曾经是，以后也会是。</p>
 <!-- more -->
 ]]></content>
     </entry>

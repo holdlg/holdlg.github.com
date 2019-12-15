@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-12-14T08:33:17.473Z</updated>
+    <updated>2019-12-15T04:28:17.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>http://www.holdlg.com/favicon.ico</icon>
     <rights>All rights reserved 2019, holdlg</rights>
     <entry>
-        <title type="html"><![CDATA[[工具] 图片排版和其他]]></title>
+        <title type="html"><![CDATA[[工具] 图片排版]]></title>
         <id>http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban</id>
         <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
         </link>
@@ -24,7 +24,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[有些事] 愿景]]></title>
+        <title type="html"><![CDATA[[有事] 愿景]]></title>
         <id>http://www.holdlg.com/post/yuan-jing</id>
         <link href="http://www.holdlg.com/post/yuan-jing">
         </link>
@@ -47,6 +47,22 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
 <p>面对</p>
 <h1 id="2014">2014</h1>
 <p>选择</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[APP] APP推荐]]></title>
+        <id>http://www.holdlg.com/post/app-app-tui-jian</id>
+        <link href="http://www.holdlg.com/post/app-app-tui-jian">
+        </link>
+        <updated>2021-12-15T04:23:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>Win,Mac,Linux,iOS,Android,Web常用APP推荐</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Win,Mac,Linux,iOS,Android,Web常用APP推荐</p>
+<!-- more -->
+<h1 id="web-app">Web APP</h1>
+<p>局域网文件传输,开源免费：<br>
+(https://blaze.now.sh/)[https://blaze.now.sh/]<br>
+(https://blaze.unubo.app/)[https://blaze.unubo.app/]</p>
 ]]></content>
     </entry>
     <entry>
@@ -247,20 +263,6 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
         <summary type="html"><![CDATA[<p>爱自己的人自带光芒！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>爱自己的人自带光芒！</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[橘子] 18岁的你漂亮]]></title>
-        <id>http://www.holdlg.com/post/ju-zi-18</id>
-        <link href="http://www.holdlg.com/post/ju-zi-18">
-        </link>
-        <updated>2019-12-09T10:13:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>18岁的你漂亮 不是你漂亮 是18漂亮</p>
-<p>28岁的你漂亮 不是28岁漂亮 是你漂亮</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>18岁的你漂亮 不是你漂亮 是18漂亮</p>
-<p>28岁的你漂亮 不是28岁漂亮 是你漂亮</p>
 <!-- more -->
 ]]></content>
     </entry>

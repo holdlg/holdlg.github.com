@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-12-18T09:51:07.509Z</updated>
+    <updated>2019-12-23T03:43:09.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -80,6 +80,18 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
 <p>上学的时候遇到的问题大部分都是简单问题，有目标又答案，只要你努力达成目标，就是胜利，就是赢。</p>
 <p>进入社会遇到的复杂问题居多，没有明确的目标和答案，这样也行，那样也可以，但是都完美。选择这个就会失去哪个。没有赢的感觉。</p>
 <p>棘手的问题肯能都会遇到吧，毕竟个人的能力是有限的，谁都会有硬着头皮上的时候吧。 但是像全球变暖，贫富差距的问题，至今确实没有什么有效可行的方案吧，都在试，都在测，但是贫富依然越来越大，地球依然在变暖。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[橘子] 人生没有白走的路]]></title>
+        <id>http://www.holdlg.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu</id>
+        <link href="http://www.holdlg.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu">
+        </link>
+        <updated>2019-12-23T03:42:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>人生没有白走的路，每一步都算数。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>人生没有白走的路，每一步都算数。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -259,18 +271,6 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
 <!-- more -->
 <p>“大圣，此去欲何?” “踏南天，碎凌霄。” “若一去不回……” “那便一去不回”</p>
 <p>翻译：猴子上单，不给就送！ 😂😂😂</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[橘子] 我不能保证]]></title>
-        <id>http://www.holdlg.com/post/ju-zi-wo-bu-neng-bao-zheng</id>
-        <link href="http://www.holdlg.com/post/ju-zi-wo-bu-neng-bao-zheng">
-        </link>
-        <updated>2019-12-09T10:17:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>我不能保证每个人都能活着回来，但这个世界需要你们。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>我不能保证每个人都能活着回来，但这个世界需要你们。</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>

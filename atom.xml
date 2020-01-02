@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2019-12-23T05:54:16.610Z</updated>
+    <updated>2020-01-02T16:12:09.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
-    <subtitle>有事做有所期待，日子就是幸福的。</subtitle>
+    <subtitle>人生没有白走的路，每一步都算数！</subtitle>
     <logo>http://www.holdlg.com/images/avatar.png</logo>
     <icon>http://www.holdlg.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, holdlg</rights>
+    <rights>All rights reserved 2020, holdlg</rights>
     <entry>
         <title type="html"><![CDATA[[工具] 图片排版]]></title>
         <id>http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban</id>

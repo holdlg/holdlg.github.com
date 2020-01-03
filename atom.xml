@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2020-01-03T06:34:17.651Z</updated>
+    <updated>2020-01-03T06:36:11.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
         </link>
         <updated>2027-12-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+        <summary type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/hd/index.html">http://www.holdlg.com/hd/index.html</a></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+        <content type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/hd/index.html">http://www.holdlg.com/hd/index.html</a></p>
 <!-- more -->
-<p>海淀堂图片排版：<a href="http://www.holdlg.com/examples/javascript/typesetting.html">http://www.holdlg.com/examples/javascript/typesetting.html</a></p>
+<p>海淀堂图片排版：<a href="http://www.holdlg.com/hd/index.html">http://www.holdlg.com/hd/index.html</a></p>
 ]]></content>
     </entry>
     <entry>

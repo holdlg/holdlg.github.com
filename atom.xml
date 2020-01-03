@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.holdlg.com</id>
     <title>holdlg</title>
-    <updated>2020-01-02T16:12:09.097Z</updated>
+    <updated>2020-01-03T06:28:59.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.holdlg.com"/>
     <link rel="self" href="http://www.holdlg.com/atom.xml"/>
@@ -63,6 +63,18 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
 <p>局域网文件传输,开源免费：<br>
 (https://blaze.now.sh/)[https://blaze.now.sh/]<br>
 (https://blaze.unubo.app/)[https://blaze.unubo.app/]</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[橘子] 卑微]]></title>
+        <id>http://www.holdlg.com/post/ju-zi-bei-wei</id>
+        <link href="http://www.holdlg.com/post/ju-zi-bei-wei">
+        </link>
+        <updated>2020-01-03T06:25:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>蛆就蛆，哪怕有一天蜕变长出了翅膀，也只不过是飞到哪里都被讨厌的苍蝇。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>蛆就蛆，哪怕有一天蜕变长出了翅膀，也只不过是飞到哪里都被讨厌的苍蝇。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -201,78 +213,6 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
 ]]></summary>
         <content type="html"><![CDATA[<p>小时候孩子以爸爸为荣，长大了爸爸以孩子为荣。</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[摘录] 2019]]></title>
-        <id>http://www.holdlg.com/post/sheng-huo-xin-de-zhai-lu</id>
-        <link href="http://www.holdlg.com/post/sheng-huo-xin-de-zhai-lu">
-        </link>
-        <updated>2019-12-12T04:06:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>遇到的事，听到的话，明白的理。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>遇到的事，听到的话，明白的理。</p>
-<!-- more -->
-<h1 id="201912">201912</h1>
-<blockquote>
-<p>骑电动车撞到人了。膝盖擦破了口，好疼。😭😭😭<br>
-在坚持的道路上遇到了困难和诱惑。<br>
-检查小孩的牙不好，黑了。</p>
-</blockquote>
-<h1 id="201905">201905</h1>
-<blockquote>
-<p>中国新生代，文化自信。</p>
-</blockquote>
-<blockquote>
-<p>一个人之所以优秀，不在于他拥有多少财富，而在于，把他所拥有的财富都夺走，他能否再度「夺回」它们？ —— 这才是一个人能力的佐证。</p>
-</blockquote>
-<blockquote>
-<p>代码只会按照你写的来执行，不会按照你想的来执行。</p>
-</blockquote>
-<blockquote>
-<p>你才是我最想留住的幸运。</p>
-</blockquote>
-<blockquote>
-<p>做自己爱做的事，并把它做到最好。</p>
-</blockquote>
-<h1 id="201904">201904</h1>
-<blockquote>
-<p>有事做有所期待，日子就是幸福的。</p>
-</blockquote>
-<blockquote>
-<p>普通人的三个特点：<br>
-1.缺少脚踏实地的能力；<br>
-2.缺少知行合一的能力；<br>
-3.迷恋小概率事件；</p>
-</blockquote>
-<blockquote>
-<p>律师的工作就是使用法律规避责任。</p>
-</blockquote>
-<blockquote>
-<p>名誉比实力高，是件可悲的事情。</p>
-</blockquote>
-<h1 id="201903">201903</h1>
-<blockquote>
-<p>世界每一个角落的蝴蝶，都可能化作长风，席卷世界。</p>
-</blockquote>
-<blockquote>
-<p>很多时候蒙蔽我们双眼的不是假象，而是自己的执念。</p>
-</blockquote>
-<blockquote>
-<p>如果程序员对职场感到迷茫，对眼下的舒适感到不安，我建议他出去面试，不见得要走，但是你要出去，听听市场对自己的评价。</p>
-</blockquote>
-<blockquote>
-<p>真正优秀的人，早已戒掉了情绪。因为情绪解决不了任何问题，而戒掉情绪，减少精力消耗，聚焦工作和生活，才是我们最应该关注的。</p>
-</blockquote>
-<h1 id="201902">201902</h1>
-<blockquote>
-<p>感恩，感谢主。<br>
-只求世上人无病，不怕架上药生尘。</p>
-</blockquote>
-<blockquote>
-<p>孔子说：“己所不欲，勿施于人”。<br>
-上帝说：“爱人如己”。</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.holdlg.com</id>
+    <id>http://www.fir8.com</id>
     <title>holdlg</title>
-    <updated>2020-01-03T06:36:11.945Z</updated>
+    <updated>2020-01-03T06:53:38.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.holdlg.com"/>
-    <link rel="self" href="http://www.holdlg.com/atom.xml"/>
+    <link rel="alternate" href="http://www.fir8.com"/>
+    <link rel="self" href="http://www.fir8.com/atom.xml"/>
     <subtitle>人生没有白走的路，每一步都算数！</subtitle>
-    <logo>http://www.holdlg.com/images/avatar.png</logo>
-    <icon>http://www.holdlg.com/favicon.ico</icon>
+    <logo>http://www.fir8.com/images/avatar.png</logo>
+    <icon>http://www.fir8.com/favicon.ico</icon>
     <rights>All rights reserved 2020, holdlg</rights>
     <entry>
         <title type="html"><![CDATA[[工具] 图片排版]]></title>
-        <id>http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban</id>
-        <link href="http://www.holdlg.com/post/gong-ju-tu-pian-pai-ban">
+        <id>http://www.fir8.com/post/gong-ju-tu-pian-pai-ban</id>
+        <link href="http://www.fir8.com/post/gong-ju-tu-pian-pai-ban">
         </link>
         <updated>2027-12-24T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>海淀堂图片排版：<a href="http://www.holdlg.com/hd/index.html">http://www.holdlg.com/hd/index.html</a></p>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[有事] 愿景]]></title>
-        <id>http://www.holdlg.com/post/yuan-jing</id>
-        <link href="http://www.holdlg.com/post/yuan-jing">
+        <id>http://www.fir8.com/post/yuan-jing</id>
+        <link href="http://www.fir8.com/post/yuan-jing">
         </link>
         <updated>2025-10-30T04:01:15.000Z</updated>
         <summary type="html"><![CDATA[<p>有事做有所期待，日子就是幸福的。<br>
@@ -51,8 +51,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[APP] APP推荐]]></title>
-        <id>http://www.holdlg.com/post/app-app-tui-jian</id>
-        <link href="http://www.holdlg.com/post/app-app-tui-jian">
+        <id>http://www.fir8.com/post/app-app-tui-jian</id>
+        <link href="http://www.fir8.com/post/app-app-tui-jian">
         </link>
         <updated>2021-12-15T04:23:21.000Z</updated>
         <summary type="html"><![CDATA[<p>Win,Mac,Linux,iOS,Android,Web常用APP推荐</p>
@@ -67,8 +67,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[橘子] 卑微]]></title>
-        <id>http://www.holdlg.com/post/ju-zi-bei-wei</id>
-        <link href="http://www.holdlg.com/post/ju-zi-bei-wei">
+        <id>http://www.fir8.com/post/ju-zi-bei-wei</id>
+        <link href="http://www.fir8.com/post/ju-zi-bei-wei">
         </link>
         <updated>2020-01-03T06:25:57.000Z</updated>
         <summary type="html"><![CDATA[<p>蛆就蛆，哪怕有一天蜕变长出了翅膀，也只不过是飞到哪里都被讨厌的苍蝇。</p>
@@ -79,8 +79,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[摘录] 问题]]></title>
-        <id>http://www.holdlg.com/post/wen-ti</id>
-        <link href="http://www.holdlg.com/post/wen-ti">
+        <id>http://www.fir8.com/post/wen-ti</id>
+        <link href="http://www.fir8.com/post/wen-ti">
         </link>
         <updated>2019-12-25T04:02:52.000Z</updated>
         <summary type="html"><![CDATA[<p>简单问题,两难问题,棘手问题</p>
@@ -100,8 +100,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[橘子] 有的人有几岁]]></title>
-        <id>http://www.holdlg.com/post/ju-zi-you-de-ren-you-ji-sui</id>
-        <link href="http://www.holdlg.com/post/ju-zi-you-de-ren-you-ji-sui">
+        <id>http://www.fir8.com/post/ju-zi-you-de-ren-you-ji-sui</id>
+        <link href="http://www.fir8.com/post/ju-zi-you-de-ren-you-ji-sui">
         </link>
         <updated>2019-12-23T05:09:48.000Z</updated>
         <summary type="html"><![CDATA[<p>“有的人有几岁，十几岁，二十几岁，而我目前只有二十几岁。“</p>
@@ -112,8 +112,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[橘子] 人生没有白走的路]]></title>
-        <id>http://www.holdlg.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu</id>
-        <link href="http://www.holdlg.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu">
+        <id>http://www.fir8.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu</id>
+        <link href="http://www.fir8.com/post/ju-zi-ren-sheng-mei-you-bai-zou-de-lu">
         </link>
         <updated>2019-12-23T03:42:20.000Z</updated>
         <summary type="html"><![CDATA[<p>人生没有白走的路，每一步都算数。</p>
@@ -124,8 +124,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[读书笔记] 金龙鱼背后的粮油帝国]]></title>
-        <id>http://www.holdlg.com/post/du-shu-bi-ji-jin-long-yu-bei-hou-de-liang-you-di-guo</id>
-        <link href="http://www.holdlg.com/post/du-shu-bi-ji-jin-long-yu-bei-hou-de-liang-you-di-guo">
+        <id>http://www.fir8.com/post/du-shu-bi-ji-jin-long-yu-bei-hou-de-liang-you-di-guo</id>
+        <link href="http://www.fir8.com/post/du-shu-bi-ji-jin-long-yu-bei-hou-de-liang-you-di-guo">
         </link>
         <updated>2019-12-16T23:49:36.000Z</updated>
         <summary type="html"><![CDATA[<p>有钱的时候能够不乱花，往往比能赚到钱还不容易。不管对人、还是对公司，都是一样。</p>
@@ -143,8 +143,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[摘录] 这是话]]></title>
-        <id>http://www.holdlg.com/post/zhai-lu-zhe-shi-hua</id>
-        <link href="http://www.holdlg.com/post/zhai-lu-zhe-shi-hua">
+        <id>http://www.fir8.com/post/zhai-lu-zhe-shi-hua</id>
+        <link href="http://www.fir8.com/post/zhai-lu-zhe-shi-hua">
         </link>
         <updated>2019-12-12T09:13:56.000Z</updated>
         <content type="html"><![CDATA[<h1 id="记录">记录</h1>
@@ -205,8 +205,8 @@ fir8：<a href="https://www.yuque.com/fir8">https://www.yuque.com/fir8</a></p>
     </entry>
     <entry>
         <title type="html"><![CDATA[[橘子] 爸爸与孩子的关系]]></title>
-        <id>http://www.holdlg.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi</id>
-        <link href="http://www.holdlg.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi">
+        <id>http://www.fir8.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi</id>
+        <link href="http://www.fir8.com/post/zhai-lu-ba-ba-yu-hai-zi-de-guan-xi">
         </link>
         <updated>2019-12-12T08:59:59.000Z</updated>
         <summary type="html"><![CDATA[<p>小时候孩子以爸爸为荣，长大了爸爸以孩子为荣。</p>
